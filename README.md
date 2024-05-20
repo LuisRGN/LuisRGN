@@ -1,5 +1,5 @@
-### Hola 👋
-# 💫 Sobre Mi:
+### Hi there 👋
+# 💫 About me:
 Hola, soy Luis. Actualmente estoy inmerso en un bootcamp de programación, donde estoy adquiriendo habilidades sólidas en desarrollo de software. Mi enfoque principal está en ser un desarrollador frontend. Estoy emocionado por aprender y crecer en este campo apasionante. Siempre estoy buscando nuevas oportunidades para aplicar mis conocimientos y contribuir a proyectos interesantes. ¡Conéctate conmigo y sigamos aprendiendo juntos!
 
 
