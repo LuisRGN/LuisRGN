@@ -1,6 +1,6 @@
  ### Hi there 👋
 # 💫 About me:
-¡Hola! Soy Luis. Recientemente completé un bootcamp *Soy Henry* de programación, donde he adquirido habilidades sólidas en desarrollo de software, con enfoque principal en ser un desarrollador frontend. Me emociona continuar aprendiendo y creciendo en este campo apasionante. Siempre estoy en busca de nuevas oportunidades para aplicar mis conocimientos y contribuir a proyectos interesantes. ¡Conéctate conmigo y sigamos aprendiendo juntos!
+Desarrollador Full Stack con una sólida capacidad para la solución de problemas, respaldado por estudios en computación y desarrollo web. Puntual, servicial y responsable, comprometido a crear soluciones integrales y escalables mediante la implementación de tecnologías de vanguardia tanto en el front-end como en el back-end. Apasionado por el desarrollo de aplicaciones web robustas y eficientes, con un enfoque en la experiencia del usuario y la optimización del rendimiento. Utilizo tecnologías como React para desarrollar interfaces de usuario interactivas, Next.js para facilitar la creación de aplicaciones web con renderizado del lado del servidor, Express para construir aplicaciones web y APIs de manera eficiente, y PostgreSQL para gestionar bases de datos relacionales con alta fiabilidad y rendimiento. Estas herramientas son fundamentales para crear aplicaciones completas, escalables y eficientes.
 
 
 ## 🌐 Socials:
